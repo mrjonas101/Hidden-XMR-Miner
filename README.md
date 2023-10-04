@@ -1,7 +1,7 @@
 # Hidden-XMR-Miner
 A free silent (hidden) native cryptocurrency miner capable of mining ETC, RVN, XMR, RTM and much more, with many features suited for mining silently.
 
-SilentCryptoMiner v3.3.1 - Miner for ETC, RVN, XMR, RTM & many more
+SilentCryptoMiner v3.4.1 - Miner for ETC, RVN, XMR, RTM & many more
 
 A free silent (hidden) native cryptocurrency miner capable of mining ETC, RVN, XMR, RTM and much more, with many features suited for mining silently.
 
